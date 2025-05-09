@@ -1,7 +1,7 @@
 
 
+![Status](https://raw.githubusercontent.com/samuk190/samuk190/main/profile-3d-contrib/profile-night-rainbow.svg)
 
-  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
 
 
